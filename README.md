@@ -1,4 +1,4 @@
-# xakra_scenarios
+# rugal_scenarios
 ## Requirements
 - [vorp_core](https://github.com/VORPCORE/vorp-core-lua)
 - [MenuApi](https://github.com/VORPCORE/vorp_stores-lua/files/8743531/menuapi.zip)
@@ -8,7 +8,7 @@ This script is an adaptation of the RicX script named "ricx_scenarios", it has b
 
 ## Instructions to incorporate script
 - Copy the script into a folder (to choose) from the 'resources' folder.
-- Add 'ensure xakra_scenarios' in the 'Resources.cfg' document
+- Add 'ensure rugal_scenarios' in the 'Resources.cfg' document
 - Configure the texts and/or add the command in your radial menu.
 
 ![img1](https://user-images.githubusercontent.com/107937295/182722154-1c2d6250-47a6-4065-9ef2-525afd734066.png)
